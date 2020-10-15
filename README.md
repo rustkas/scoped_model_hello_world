@@ -1,4 +1,5 @@
-# scoped_model_hello_world
+# scoped_model
+## Basic usage
 
 Example of Flutter's [scoped_model](https://pub.dartlang.org/packages/scoped_model), showing a simple list of widgets that react to updates of our scoped model state.
 
